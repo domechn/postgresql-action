@@ -1,6 +1,6 @@
 # PostgreSQL GitHub Action
 
-This [GitHub Action](https://github.com/features/actions) sets up a PostgreSQL database.
+This [GitHub Action](https://github.com/features/actions) sets up a PostgreSQL database With [zhparser](https://github.com/amutu/zhparser).
 
 # Usage
 
